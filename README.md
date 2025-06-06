@@ -1,2 +1,2 @@
 # CRM
-Sistema se CRM em  .NET/Angular
+Sistema CRM em .NET/Angular
